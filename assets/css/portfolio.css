@@ -1,8 +1,8 @@
 @charset "utf-8";
 
-a{color:0x0000FF !important;}
-a:hover{color:0xFF3300 !important;}
-a:visited{color:0xFFCCCC !important;}
+a{color:0x99FFFF !important;}
+a:hover{color:0xCC99FF !important;}
+a:visited{color:0x33CCFF !important;}
 
 .navbar
 {
